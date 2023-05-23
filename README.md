@@ -1,5 +1,7 @@
 # ms-wavelab-api
 
+https://captn-sh.github.io/ms-wavelab-api/
+
 Initial suggestion for MQTT topics
 
 ```
