@@ -6,7 +6,7 @@ https://captn-sh.github.io/ms-wavelab-api/
 
 # Contributors
 
-![ADDIX](/assets/images/ADDIX.png)
+![ADDIX](/assets/images/ADDIX.png){}
 ![CAU](/assets/images/CAU.png)
 
 <a href="https://www.addix.net/" target="_blank" rel="noopener noreferrer">
@@ -14,3 +14,5 @@ https://captn-sh.github.io/ms-wavelab-api/
 </a>
 
 https://www.uni-kiel.de/de/
+
+![ADDIX](https://github.com/CAPTN-sh/ms-wavelab-api/blob/main/docs/assets/images/ADDIX.png){target="_blank"}
