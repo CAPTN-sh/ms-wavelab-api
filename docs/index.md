@@ -44,4 +44,4 @@ ms-wavelab/
 ![ADDIX](/assets/images/ADDIX.png)
 ![CAU](/assets/images/CAU.png)
 
-<img src="/assets/images/ADDIX.png" width="360" height="240">
+<img src="/assets/images/ADDIX.png" alt="ADDIX" width="360" height="240">
