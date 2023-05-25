@@ -38,3 +38,8 @@ ms-wavelab/
         command/
             ...
 ```
+
+# Contributors
+
+![ADDIX](/assets/images/ADDIX.png)
+![CAU](/assets/images/CAU.png)
