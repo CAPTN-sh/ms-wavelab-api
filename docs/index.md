@@ -41,7 +41,10 @@ ms-wavelab/
 
 # Contributors
 
-![ADDIX](/assets/images/ADDIX.png)
-![CAU](/assets/images/CAU.png)
-
+<a href="https://www.addix.net/">
 <img src="/assets/images/ADDIX.png" alt="ADDIX" width="360" height="240">
+</a>
+
+<a href="https://www.uni-kiel.de/de/">
+<img src="/assets/images/CAU.png" alt="CAU" width="360" height="240">
+</a>
